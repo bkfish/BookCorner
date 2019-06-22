@@ -14,5 +14,5 @@
 ## 特别鸣谢捐赠者们
 | 捐赠者们         
 | -------------- |
-| [arcosx](https://github.com/arcosx) | 
+| [Arcosx](https://github.com/arcosx) | 
 |[Triple-Z](https://github.com/Triple-Z) |
