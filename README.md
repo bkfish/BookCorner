@@ -16,3 +16,4 @@
 | -------------- |
 | [Arcosx](https://github.com/arcosx) | 
 |[Triple-Z](https://github.com/Triple-Z) |
+#### ps:如果您不会使用github也可以通过QQ/邮箱联系后到实验室参与借书`QQ:381382770`/`mail:mdlzz@nuaa.edu.cn`
