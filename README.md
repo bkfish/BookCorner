@@ -11,3 +11,8 @@
 | -------------- | ------------------------ | ----------------------------- |---|
 | 《深入理解计算机系统第三版》 | [https://book.douban.com/subject/26912767/](https://book.douban.com/subject/26912767/) | kitty |在库|
 |《加密与解密第四版》 | [https://book.douban.com/subject/30288807/](https://book.douban.com/subject/30288807/) | kitty| w4rd3n|
+## 特别鸣谢捐赠者们
+| 捐赠者们         
+| -------------- |
+| [arcosx](https://github.com/arcosx) | 
+|[Triple-Z](https://github.com/Triple-Z) |
