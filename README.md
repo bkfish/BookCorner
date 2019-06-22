@@ -8,5 +8,5 @@
 ## Book List
 | 书名           | 介绍                      | 捐赠者                       |状态|
 | -------------- | ------------------------ | ----------------------------- |---|
-| 深入理解计算机系统第三版 | [https://book.douban.com/subject/26912767/](https://book.douban.com/subject/26912767/) | kitty |在库|
-|解密与解密第四版 | [https://book.douban.com/subject/30288807/](https://book.douban.com/subject/30288807/) | kitty| w4rd3n|
+| 《深入理解计算机系统第三版》 | [https://book.douban.com/subject/26912767/](https://book.douban.com/subject/26912767/) | kitty |在库|
+|《解密与解密第四版》 | [https://book.douban.com/subject/30288807/](https://book.douban.com/subject/30288807/) | kitty| w4rd3n|
