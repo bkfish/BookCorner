@@ -4,7 +4,7 @@
 
 ## Welcome
 书籍均为纸质实体暂放于计算机实验楼316实验室，借还操作之后提交 `issue` 或 `pull request` 修改状态为`{借书人Id}/在库`即可。
-## Service Population
+## Service People
 南京航空航天大学爱好计算机的学生均可享受此服务，你只需有一个github的id来修改图书状态-无ddl-无实名制，旨在发扬大佬们的共享精神~
 ## Book List
 | 书名           | 介绍                      | 捐赠者                       |状态|
