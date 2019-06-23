@@ -41,7 +41,7 @@
 | 《流利的python语言》 | [https://book.douban.com/subject/26994394/](https://book.douban.com/subject/26994394/) | 在库|
 | 《具体数学计算机科学基础第二版》 |[https://book.douban.com/subject/21323941/](https://book.douban.com/subject/21323941/)  | 在库|
 | 《tomcat权威指南》 |[https://book.douban.com/subject/1231138/](https://book.douban.com/subject/1231138/)  | 在库|
-| 《head first设计模式》 |[https://book.douban.com/subject/1488876/](https://book.douban.com/subject/1488876/)  | 在库|
+| 《head first设计模式》 |[https://book.douban.com/subject/1488876/](https://book.douban.com/subject/1488876/)  | L1nk|
 | 《挑战程序设计竞赛2》 | [https://book.douban.com/subject/26886659/](https://book.douban.com/subject/26886659/) | 在库|
 | 《原则》 | [https://book.douban.com/subject/27608239/](https://book.douban.com/subject/27608239/) | 在库|
 | 《思考，快与慢》 | [https://book.douban.com/subject/10785583/](https://book.douban.com/subject/10785583/) | 在库|
