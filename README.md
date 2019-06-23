@@ -64,7 +64,7 @@
 | -------------- | ------------------------ |---------| -----|
 | 《深入理解计算机系统第三版》 | [https://book.douban.com/subject/26912767/](https://book.douban.com/subject/26912767/) |计算机基础|w4rd3,kit4y |
 | 《机器学习》 | [https://book.douban.com/subject/26708119/](https://book.douban.com/subject/26708119/) | 机器学习 | Muyun99 | 
-| 《统计学习方法》（第2版） | [https://book.douban.com/subject/33437381/](https://book.douban.com/subject/33437381/) | 机器学习 | Muyun99 |
+| 《统计学习方法第二版》 | [https://book.douban.com/subject/33437381/](https://book.douban.com/subject/33437381/) | 机器学习 | Muyun99 |
 | 《深度学习》 | [https://book.douban.com/subject/27087503/](https://book.douban.com/subject/27087503/) | 深度学习 | Muyun99 | 
 | 《动手学深度学习》 | [https://book.douban.com/subject/33450010/](https://book.douban.com/subject/33450010/) | 深度学习 | Muyun99
 
