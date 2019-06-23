@@ -1,10 +1,10 @@
 # BookCorner
-> 由南京航空航天大学Asuri战队，微软俱乐部，A20S等部门的各方大佬以及毕业离校的优秀学长们捐助的计算机技术类图书共享计划
+> 由南京航空航天大学Asuri战队，微软俱乐部，A20S等部门的各方大佬以及毕业离校的优秀学长们捐助的计算机技术类图书共享以及书单推荐计划
 
 
 ![](/image/1.jpg)
 ## Welcome
-书籍均为纸质实体暂放于南京航空航天大学将军路校区计算机实验楼316实验室，提交 `issue` 或 `pull request` 修改状态为`{借书人Id}/在库`即可拿书，借还无ddl，无实名制，但是单人同时上限5本。
+书籍均为纸质实体暂放于南京航空航天大学将军路校区计算机实验楼316实验室，提交 `issue` 或 `pull request` 修改状态为`{借书人Id}/在库`即可拿书，借还无ddl，无实名制，但是单人同时上限5本。另外附带一个大佬推荐书单，如果有师傅推荐书籍也可以提pr
 ## Service People
 南京航空航天大学爱好计算机的学生均可享受此服务，如果您有github账号,您只需提 `issue` 或 `pull request` 即可,如果您不会使用github或者也想捐赠书籍可以通过QQ/邮箱联系后到实验室拿书`QQ:381382770`/`E-mail:mdlzz@nuaa.edu.cn`，并非所有书籍为正版，望多多包涵，旨在分享一下大佬们的书单以及发扬大神们的共享精神。
 
@@ -58,6 +58,11 @@
 | 《MSP(MSP430/432)系列单片机设计进阶与工程实践》 |[https://book.douban.com/subject/30532700/](https://book.douban.com/subject/30532700/)  | 在库|
 | 《深入理解计算机系统第三版》 | [https://book.douban.com/subject/26912767/](https://book.douban.com/subject/26912767/) | 在库|
 |《加密与解密第四版》 | [https://book.douban.com/subject/30288807/](https://book.douban.com/subject/30288807/) | w4rd3n|
+
+## 推荐书单
+| 书名           | 介绍                     | 方向| 推荐人id|
+| -------------- | ------------------------ |---------| -----|
+| 《深入理解计算机系统第三版》 | [https://book.douban.com/subject/26912767/](https://book.douban.com/subject/26912767/) |计算机基础|w4rd3,kit4y |
 ## 特别鸣谢捐赠者们
 | 捐赠者们         
 | -------------- |
