@@ -60,7 +60,7 @@
 |《加密与解密第四版》 | [https://book.douban.com/subject/30288807/](https://book.douban.com/subject/30288807/) | w4rd3n|
 
 ## 推荐书单
-| 书名           | 介绍                     | 方向| 推荐人id|
+| 书名           | 介绍                     | 方向| 推荐人|
 | -------------- | ------------------------ |---------| -----|
 | 《深入理解计算机系统第三版》 | [https://book.douban.com/subject/26912767/](https://book.douban.com/subject/26912767/) |计算机基础|w4rd3,kit4y |
 ## 特别鸣谢捐赠者们
