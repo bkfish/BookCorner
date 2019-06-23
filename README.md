@@ -21,7 +21,7 @@
 | 《自动机理论、语言和计算导论》 | [https://book.douban.com/subject/3171389/](https://book.douban.com/subject/3171389/) | 在库|
 | 《javascript权威指南》 | [https://book.douban.com/subject/2228378/](https://book.douban.com/subject/2228378/) | 在库|
 | 《计算机组成与设计》 |[https://book.douban.com/subject/10441748/](https://book.douban.com/subject/10441748/)  | 在库|
-| 《黑客大曝光》 | [https://book.douban.com/subject/26316200/](https://book.douban.com/subject/26316200/) | 在库|
+| 《黑客大曝光》 | [https://book.douban.com/subject/26825920/](https://book.douban.com/subject/26825920/) | 在库|
 | 《Wireshark分析实战》 | [https://book.douban.com/subject/30532700/](https://book.douban.com/subject/30532700/) | 在库|
 | 《Effective c++》 | [https://book.douban.com/subject/5387403/](https://book.douban.com/subject/5387403/) | 在库|
 | 《C++沉思录》 | [https://book.douban.com/subject/2970056/](https://book.douban.com/subject/2970056/) | 在库|
