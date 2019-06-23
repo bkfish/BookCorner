@@ -1,5 +1,5 @@
 # BookCorner
-> 由南京航空航天大学Asuri战队，微软俱乐部，A20S等部门的各方大佬以及毕业离校的优秀学长们捐助的计算机技术类图书共享以及书单推荐计划
+> 由南京航空航天大学Asuri战队，微软学生俱乐部，A2OS等部门的各方大佬以及毕业离校的优秀学长们捐助的计算机技术类图书共享以及书单推荐计划
 
 
 ![](/image/1.jpg)
@@ -63,6 +63,11 @@
 | 书名           | 介绍                     | 方向| 推荐人|
 | -------------- | ------------------------ |---------| -----|
 | 《深入理解计算机系统第三版》 | [https://book.douban.com/subject/26912767/](https://book.douban.com/subject/26912767/) |计算机基础|w4rd3,kit4y |
+| 《机器学习》 | [https://book.douban.com/subject/26708119/](https://book.douban.com/subject/26708119/) | 机器学习 | Muyun99 | 
+| 《统计学习方法》（第2版） | [https://book.douban.com/subject/33437381/](https://book.douban.com/subject/33437381/) | 机器学习 | Muyun99 |
+| 《深度学习》 | [https://book.douban.com/subject/27087503/](https://book.douban.com/subject/27087503/) | 深度学习 | Muyun99 | 
+| 《动手学深度学习》 | [https://book.douban.com/subject/33450010/](https://book.douban.com/subject/33450010/) | 深度学习 | Muyun99
+
 ## 特别鸣谢捐赠者们
 | 捐赠者们         
 | -------------- |
