@@ -19,7 +19,7 @@
 | 《python编程从入门到实践》 | [https://book.douban.com/subject/26829016/](https://book.douban.com/subject/26829016/) | 在库|
 | 《c和指针，c专家编程c陷阱与缺陷》 | [https://book.douban.com/subject/3012360/](https://book.douban.com/subject/3012360/) | 在库|
 | 《自动机理论、语言和计算导论》 | [https://book.douban.com/subject/3171389/](https://book.douban.com/subject/3171389/) | 在库|
-| 《javascript权威指南》 | [https://book.douban.com/subject/2228378/](https://book.douban.com/subject/2228378/) | 在库|
+| 《javascript权威指南》 | [https://book.douban.com/subject/2228378/](https://book.douban.com/subject/2228378/) | LitMonkey|
 | 《计算机组成与设计》 |[https://book.douban.com/subject/10441748/](https://book.douban.com/subject/10441748/)  | 在库|
 | 《黑客大曝光》 | [https://book.douban.com/subject/26825920/](https://book.douban.com/subject/26825920/) | 在库|
 | 《Wireshark分析实战》 | [https://book.douban.com/subject/30532700/](https://book.douban.com/subject/30532700/) | 在库|
@@ -32,8 +32,8 @@
 | 《c++ primerplus》 |[https://book.douban.com/subject/10789789/](https://book.douban.com/subject/10789789/)  | 在库|
 | 《反入侵的艺术 黑客入侵背后的真实故事》 |  [https://book.douban.com/subject/25962826/](https://book.douban.com/subject/25962826/)| 在库|
 | 《GOF设计模式》 |  [https://book.douban.com/subject/1052241/](https://book.douban.com/subject/1052241/)| 在库|
-| 《精通python网络爬虫》 | [https://book.douban.com/subject/26999123/](https://book.douban.com/subject/26999123/) | 在库|
-| 《php与mysqlweb开发》 | [https://book.douban.com/subject/3549421/](https://book.douban.com/subject/3549421/) | 在库|
+| 《精通python网络爬虫》 | [https://book.douban.com/subject/26999123/](https://book.douban.com/subject/26999123/) | LitMonkey|
+| 《php与mysqlweb开发》 | [https://book.douban.com/subject/3549421/](https://book.douban.com/subject/3549421/) | LitMonkey|
 | 《hive实战》 | [https://book.douban.com/subject/30367739/](https://book.douban.com/subject/30367739/) | 在库|
 | 《统计学习方法》 | [https://book.douban.com/subject/10590856/](https://book.douban.com/subject/10590856/) | 在库|
 | 《数据结构与算法分析C语言描述》 | [https://book.douban.com/subject/1139426/](https://book.douban.com/subject/1139426/) | 在库|
@@ -46,8 +46,8 @@
 | 《原则》 | [https://book.douban.com/subject/27608239/](https://book.douban.com/subject/27608239/) | 在库|
 | 《思考，快与慢》 | [https://book.douban.com/subject/10785583/](https://book.douban.com/subject/10785583/) | 在库|
 | 《剑指offer》 |[https://book.douban.com/subject/25910559/](https://book.douban.com/subject/25910559/)  | 在库|
-| 《算法竞赛入门经典》 |  [https://book.douban.com/subject/25902102/](https://book.douban.com/subject/25902102/)| 在库|
-| 《算法竞赛入门经典习题与解法》 | [https://book.douban.com/subject/30336590/](https://book.douban.com/subject/30336590/) | 在库|
+| 《算法竞赛入门经典》 |  [https://book.douban.com/subject/25902102/](https://book.douban.com/subject/25902102/)| LitMonkey|
+| 《算法竞赛入门经典习题与解法》 | [https://book.douban.com/subject/30336590/](https://book.douban.com/subject/30336590/) | LitMonkey|
 | 《囚徒健身》 | [https://book.douban.com/subject/25717097/](https://book.douban.com/subject/25717097/) | 在库|
 | 《灿烂千阳》 | [https://book.douban.com/subject/2143732/](https://book.douban.com/subject/2143732/) | 在库|
 | 《全球风口》 |[https://book.douban.com/subject/26695045/](https://book.douban.com/subject/26695045/)  | 在库|
