@@ -57,7 +57,6 @@
 | 《离散数学及其应用》 |[https://book.douban.com/subject/26316200/](https://book.douban.com/subject/26316200/)  | 在库|
 | 《MSP(MSP430/432)系列单片机设计进阶与工程实践》 |[https://book.douban.com/subject/30532700/](https://book.douban.com/subject/30532700/)  | 在库|
 | 《深入理解计算机系统第三版》 | [https://book.douban.com/subject/26912767/](https://book.douban.com/subject/26912767/) | 在库|
-|《加密与解密第四版》 | [https://book.douban.com/subject/30288807/](https://book.douban.com/subject/30288807/) | w4rd3n|
 
 ## 推荐书单
 | 书名           | 介绍                     | 方向| 推荐人|
