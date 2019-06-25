@@ -22,7 +22,7 @@
 | 《javascript权威指南》 | [https://book.douban.com/subject/2228378/](https://book.douban.com/subject/2228378/) | LitMonkey|
 | 《计算机组成与设计》 |[https://book.douban.com/subject/10441748/](https://book.douban.com/subject/10441748/)  | 在库|
 | 《黑客大曝光》 | [https://book.douban.com/subject/26825920/](https://book.douban.com/subject/26825920/) | 在库|
-| 《Wireshark分析实战》 | [https://book.douban.com/subject/30532700/](https://book.douban.com/subject/30532700/) | 在库|
+| 《Wireshark分析实战》 | [https://book.douban.com/subject/30532700/](https://book.douban.com/subject/30532700/) | desperadoccy|
 | 《Effective c++》 | [https://book.douban.com/subject/5387403/](https://book.douban.com/subject/5387403/) | 在库|
 | 《C++沉思录》 | [https://book.douban.com/subject/2970056/](https://book.douban.com/subject/2970056/) | 在库|
 | 《面向对象分析与设计第二版》 | [https://book.douban.com/subject/21797406/](https://book.douban.com/subject/21797406/) | 在库|
