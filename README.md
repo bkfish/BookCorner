@@ -31,7 +31,7 @@
 | 《python绝技作用python成为顶级黑客》 | [https://book.douban.com/subject/26702570/](https://book.douban.com/subject/26702570/) | 在库|
 | 《c++ primerplus》 |[https://book.douban.com/subject/10789789/](https://book.douban.com/subject/10789789/)  | 在库|
 | 《反入侵的艺术 黑客入侵背后的真实故事》 |  [https://book.douban.com/subject/25962826/](https://book.douban.com/subject/25962826/)| 在库|
-| 《GOF设计模式》 |  [https://book.douban.com/subject/1052241/](https://book.douban.com/subject/1052241/)| 在库|
+| 《GOF设计模式》 |  [https://book.douban.com/subject/1052241/](https://book.douban.com/subject/1052241/)| qinmaye|
 | 《精通python网络爬虫》 | [https://book.douban.com/subject/26999123/](https://book.douban.com/subject/26999123/) | LitMonkey|
 | 《php与mysqlweb开发》 | [https://book.douban.com/subject/3549421/](https://book.douban.com/subject/3549421/) | LitMonkey|
 | 《hive实战》 | [https://book.douban.com/subject/30367739/](https://book.douban.com/subject/30367739/) | 在库|
