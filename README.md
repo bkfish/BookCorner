@@ -62,10 +62,14 @@
 | 书名           | 介绍                     | 方向| 推荐人|
 | -------------- | ------------------------ |---------| -----|
 | 《深入理解计算机系统第三版》 | [https://book.douban.com/subject/26912767/](https://book.douban.com/subject/26912767/) |计算机基础|w4rd3,kit4y |
-| 《机器学习》 | [https://book.douban.com/subject/26708119/](https://book.douban.com/subject/26708119/) | 机器学习 | Muyun99 | 
+| 《机器学习》 | [https://book.douban.com/subject/26708119/](https://book.douban.com/subject/26708119/) | 机器学习 | Muyun99 |
 | 《统计学习方法第二版》 | [https://book.douban.com/subject/33437381/](https://book.douban.com/subject/33437381/) | 机器学习 | Muyun99 |
-| 《深度学习》 | [https://book.douban.com/subject/27087503/](https://book.douban.com/subject/27087503/) | 深度学习 | Muyun99 | 
-| 《动手学深度学习》 | [https://book.douban.com/subject/33450010/](https://book.douban.com/subject/33450010/) | 深度学习 | Muyun99
+| 《深度学习》 | [https://book.douban.com/subject/27087503/](https://book.douban.com/subject/27087503/) | 深度学习 | Muyun99 |
+| 《动手学深度学习》 | [https://book.douban.com/subject/33450010/](https://book.douban.com/subject/33450010/) | 深度学习 | Muyun99 |
+| 《Redis设计与实现》 | <https://book.douban.com/subject/25900156/> | 后端开发 | Tomax|
+| 《码出高效：Java开发手册》 | https://book.douban.com/subject/30333948/ | 后端开发 | Tomax |
+| 《Spring实战（第4版）》 | https://book.douban.com/subject/26767354/ | 后端开发 | Tomax |
+| 《Linux 内核设计的艺术（第2版）》 | https://book.douban.com/subject/24708145/ | 计算机基础 | Tomax |
 
 ## 特别鸣谢捐赠者们
 | 捐赠者们         
@@ -74,4 +78,5 @@
 |[Triple-Z](https://github.com/Triple-Z) |
 |[w4rd3n](https://github.com/hitworld) |
 |[kit4y](https://github.com/kit4y) |
+
 #### ps:如果您不会使用github或者也想捐赠书籍可以通过QQ/邮箱联系后到实验室参与借书`QQ:381382770`/`mail:mdlzz@nuaa.edu.cn`
