@@ -34,7 +34,7 @@
 | 《GOF设计模式》 |  [https://book.douban.com/subject/1052241/](https://book.douban.com/subject/1052241/)| qinmaye|
 | 《精通python网络爬虫》 | [https://book.douban.com/subject/26999123/](https://book.douban.com/subject/26999123/) | LitMonkey|
 | 《php与mysqlweb开发》 | [https://book.douban.com/subject/3549421/](https://book.douban.com/subject/3549421/) | LitMonkey|
-| 《hive实战》 | [https://book.douban.com/subject/30367739/](https://book.douban.com/subject/30367739/) | 在库|
+| 《hive实战》 | [https://book.douban.com/subject/30367739/](https://book.douban.com/subject/30367739/) | yayaya|
 | 《统计学习方法》 | [https://book.douban.com/subject/10590856/](https://book.douban.com/subject/10590856/) | 在库|
 | 《数据结构与算法分析C语言描述》 | [https://book.douban.com/subject/1139426/](https://book.douban.com/subject/1139426/) | 在库|
 | 《spark sql内核剖析》 | [https://book.douban.com/subject/30296615/](https://book.douban.com/subject/30296615/) | 在库|
