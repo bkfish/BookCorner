@@ -36,7 +36,7 @@
 | 《php与mysqlweb开发》 | [https://book.douban.com/subject/3549421/](https://book.douban.com/subject/3549421/) | LitMonkey|
 | 《hive实战》 | [https://book.douban.com/subject/30367739/](https://book.douban.com/subject/30367739/) | yayaya|
 | 《统计学习方法》 | [https://book.douban.com/subject/10590856/](https://book.douban.com/subject/10590856/) | 在库|
-| 《数据结构与算法分析C语言描述》 | [https://book.douban.com/subject/1139426/](https://book.douban.com/subject/1139426/) | 在库|
+| 《数据结构与算法分析C语言描述》 | [https://book.douban.com/subject/1139426/](https://book.douban.com/subject/1139426/) | Ink-core|
 | 《spark sql内核剖析》 | [https://book.douban.com/subject/30296615/](https://book.douban.com/subject/30296615/) | 在库|
 | 《流利的python语言》 | [https://book.douban.com/subject/26994394/](https://book.douban.com/subject/26994394/) | 在库|
 | 《具体数学计算机科学基础第二版》 |[https://book.douban.com/subject/21323941/](https://book.douban.com/subject/21323941/)  | 在库|
@@ -45,7 +45,7 @@
 | 《挑战程序设计竞赛2》 | [https://book.douban.com/subject/26886659/](https://book.douban.com/subject/26886659/) | 在库|
 | 《原则》 | [https://book.douban.com/subject/27608239/](https://book.douban.com/subject/27608239/) | 在库|
 | 《思考，快与慢》 | [https://book.douban.com/subject/10785583/](https://book.douban.com/subject/10785583/) | Shanks997|
-| 《剑指offer》 |[https://book.douban.com/subject/25910559/](https://book.douban.com/subject/25910559/)  | 在库|
+| 《剑指offer》 |[https://book.douban.com/subject/25910559/](https://book.douban.com/subject/25910559/)  | Ink-core|
 | 《算法竞赛入门经典》 |  [https://book.douban.com/subject/25902102/](https://book.douban.com/subject/25902102/)| LitMonkey|
 | 《算法竞赛入门经典习题与解法》 | [https://book.douban.com/subject/30336590/](https://book.douban.com/subject/30336590/) | LitMonkey|
 | 《囚徒健身》 | [https://book.douban.com/subject/25717097/](https://book.douban.com/subject/25717097/) | 在库|
