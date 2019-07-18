@@ -14,7 +14,7 @@
 | 《组合数学》 | [https://book.douban.com/subject/1231452/](https://book.douban.com/subject/1231452/) | 在库|
 | 《编程珠玑第二版》 | [https://book.douban.com/subject/3227098/](https://book.douban.com/subject/3227098/) | 在库|
 | 《数学建模第五版》 |[https://book.douban.com/subject/1231271/](https://book.douban.com/subject/1231271/)  | 在库|
-| 《c++游戏编程入门》 |  [https://book.douban.com/subject/26964071/](https://book.douban.com/subject/26964071/)| 在库|
+| 《c++游戏编程入门》 |  [https://book.douban.com/subject/26964071/](https://book.douban.com/subject/26964071/)| Ink-core|
 | 《快学scala第二版》 |  [https://book.douban.com/subject/27093751/](https://book.douban.com/subject/27093751/)| 在库|
 | 《python编程从入门到实践》 | [https://book.douban.com/subject/26829016/](https://book.douban.com/subject/26829016/) | 在库|
 | 《c和指针，c专家编程c陷阱与缺陷》 | [https://book.douban.com/subject/3012360/](https://book.douban.com/subject/3012360/) | 在库|
