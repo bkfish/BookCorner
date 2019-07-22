@@ -23,13 +23,13 @@
 | 《计算机组成与设计》 |[https://book.douban.com/subject/10441748/](https://book.douban.com/subject/10441748/)  | 在库|
 | 《黑客大曝光》 | [https://book.douban.com/subject/26825920/](https://book.douban.com/subject/26825920/) | 在库|
 | 《Wireshark分析实战》 | [https://book.douban.com/subject/30532700/](https://book.douban.com/subject/30532700/) | desperadoccy|
-| 《Effective c++》 | [https://book.douban.com/subject/5387403/](https://book.douban.com/subject/5387403/) | 在库|
-| 《C++沉思录》 | [https://book.douban.com/subject/2970056/](https://book.douban.com/subject/2970056/) | 在库|
+| 《Effective c++》 | [https://book.douban.com/subject/5387403/](https://book.douban.com/subject/5387403/) | villivateur |
+| 《C++沉思录》 | [https://book.douban.com/subject/2970056/](https://book.douban.com/subject/2970056/) | villivateur |
 | 《面向对象分析与设计第二版》 | [https://book.douban.com/subject/21797406/](https://book.douban.com/subject/21797406/) | 在库|
 | 《Code编码》 | [https://book.douban.com/subject/4822685/](https://book.douban.com/subject/4822685/) | 在库|
 | 《Java核心技术（卷2）》 | [https://book.douban.com/subject/25841326/](https://book.douban.com/subject/25841326/) | 在库|
 | 《python绝技作用python成为顶级黑客》 | [https://book.douban.com/subject/26702570/](https://book.douban.com/subject/26702570/) | 在库|
-| 《c++ primerplus》 |[https://book.douban.com/subject/10789789/](https://book.douban.com/subject/10789789/)  | 在库|
+| 《c++ primerplus》 |[https://book.douban.com/subject/10789789/](https://book.douban.com/subject/10789789/)  | villivateur |
 | 《反入侵的艺术 黑客入侵背后的真实故事》 |  [https://book.douban.com/subject/25962826/](https://book.douban.com/subject/25962826/)| 在库|
 | 《GOF设计模式》 |  [https://book.douban.com/subject/1052241/](https://book.douban.com/subject/1052241/)| qinmaye|
 | 《精通python网络爬虫》 | [https://book.douban.com/subject/26999123/](https://book.douban.com/subject/26999123/) | LitMonkey|
