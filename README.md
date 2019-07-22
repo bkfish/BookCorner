@@ -70,6 +70,11 @@
 | 《码出高效：Java开发手册》 | https://book.douban.com/subject/30333948/ | 后端开发 | Tomax |
 | 《Spring实战（第4版）》 | https://book.douban.com/subject/26767354/ | 后端开发 | Tomax |
 | 《Linux 内核设计的艺术（第2版）》 | https://book.douban.com/subject/24708145/ | 计算机基础 | Tomax |
+|《黑客攻防技术宝典:系统实战篇》|https://book.douban.com/subject/4225167/|系统安全|Edgar|
+|《寒江独钓:Windows内核安全编程》|https://book.douban.com/subject/3769383/|系统安全|Edgar|
+|《加密与解密(第四版)》|https://book.douban.com/subject/30288807/|系统安全|Edgar|
+|《C++反汇编与逆向分析技术揭秘》|https://book.douban.com/subject/6849800/|系统安全|Edgar|
+
 
 ## 特别鸣谢捐赠者们
 | 捐赠者们         
@@ -80,3 +85,4 @@
 |[kit4y](https://github.com/kit4y) |
 
 #### ps:如果您不会使用github或者也想捐赠书籍可以通过QQ/邮箱联系后到实验室参与借书`QQ:381382770`/`mail:mdlzz@nuaa.edu.cn`
+
