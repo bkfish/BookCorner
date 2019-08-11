@@ -70,6 +70,8 @@
 | 《码出高效：Java开发手册》 | https://book.douban.com/subject/30333948/ | 后端开发 | Tomax |
 | 《Spring实战（第4版）》 | https://book.douban.com/subject/26767354/ | 后端开发 | Tomax |
 | 《Linux 内核设计的艺术（第2版）》 | https://book.douban.com/subject/24708145/ | 计算机基础 | Tomax |
+| 《kali渗透测试实战》 | https://book.douban.com/subject/25967355/ | Web渗透 | h2w2r6ui |
+| 《白帽子讲Web安全》 | https://book.douban.com/subject/10546925/ | Web安全入门 | h2w2r6ui |
 
 ## 特别鸣谢捐赠者们
 | 捐赠者们         
