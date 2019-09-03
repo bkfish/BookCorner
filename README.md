@@ -16,7 +16,7 @@
 | 《数学建模第五版》 |[https://book.douban.com/subject/1231271/](https://book.douban.com/subject/1231271/)  | 在库|
 | 《c++游戏编程入门》 |  [https://book.douban.com/subject/26964071/](https://book.douban.com/subject/26964071/)| Ink-core|
 | 《快学scala第二版》 |  [https://book.douban.com/subject/27093751/](https://book.douban.com/subject/27093751/)| 在库|
-| 《python编程从入门到实践》 | [https://book.douban.com/subject/26829016/](https://book.douban.com/subject/26829016/) | 在库|
+| 《python编程从入门到实践》 | [https://book.douban.com/subject/26829016/](https://book.douban.com/subject/26829016/) | cooook|
 | 《c和指针，c专家编程c陷阱与缺陷》 | [https://book.douban.com/subject/3012360/](https://book.douban.com/subject/3012360/) | 在库|
 | 《自动机理论、语言和计算导论》 | [https://book.douban.com/subject/3171389/](https://book.douban.com/subject/3171389/) | 在库|
 | 《javascript权威指南》 | [https://book.douban.com/subject/2228378/](https://book.douban.com/subject/2228378/) | LitMonkey|
