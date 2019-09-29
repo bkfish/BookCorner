@@ -72,7 +72,7 @@
 | 《Linux 内核设计的艺术（第2版）》 | https://book.douban.com/subject/24708145/ | 计算机基础 | Tomax |
 | 《kali渗透测试实战》 | https://book.douban.com/subject/25967355/ | Web渗透 | h2w2r6ui |
 | 《白帽子讲Web安全》 | https://book.douban.com/subject/10546925/ | Web安全入门 | h2w2r6ui |
-| 《网络是怎样连接的》 | https://book.douban.com/subject/10546925/ | Web入门 | St4ck |
+| 《网络是怎样连接的》 | https://book.douban.com/subject/26941639/ | Web入门 | St4ck |
 |《黑客攻防技术宝典:系统实战篇》|https://book.douban.com/subject/4225167/|系统安全|Edgar|
 |《寒江独钓:Windows内核安全编程》|https://book.douban.com/subject/3769383/|系统安全|Edgar|
 |《加密与解密(第四版)》|https://book.douban.com/subject/30288807/|系统安全|Edgar|
