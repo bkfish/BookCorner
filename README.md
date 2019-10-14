@@ -43,7 +43,7 @@
 | 《tomcat权威指南》 |[https://book.douban.com/subject/1231138/](https://book.douban.com/subject/1231138/)  | 在库|
 | 《head first设计模式》 |[https://book.douban.com/subject/1488876/](https://book.douban.com/subject/1488876/)  | L1nk|
 | 《挑战程序设计竞赛2》 | [https://book.douban.com/subject/26886659/](https://book.douban.com/subject/26886659/) | 在库|
-| 《原则》 | [https://book.douban.com/subject/27608239/](https://book.douban.com/subject/27608239/) | 在库|
+| 《原则》 | [https://book.douban.com/subject/27608239/](https://book.douban.com/subject/27608239/) | shanks997|
 | 《思考，快与慢》 | [https://book.douban.com/subject/10785583/](https://book.douban.com/subject/10785583/) | Shanks997|
 | 《剑指offer》 |[https://book.douban.com/subject/25910559/](https://book.douban.com/subject/25910559/)  | Ink-core|
 | 《算法竞赛入门经典》 |  [https://book.douban.com/subject/25902102/](https://book.douban.com/subject/25902102/)| LitMonkey|
@@ -54,7 +54,7 @@
 | 《全球风口》 |[https://book.douban.com/subject/26695045/](https://book.douban.com/subject/26695045/)  | 在库|
 | 《智慧社会 大数据与社会物理学》 | [https://book.douban.com/subject/26315800/](https://book.douban.com/subject/26315800/) | 在库|
 | 《消费者行为学》 | [https://book.douban.com/subject/2015536/](https://book.douban.com/subject/2015536/) | 在库|
-| 《怪诞行为学全套》 |[https://book.douban.com/subject/5253757/](https://book.douban.com/subject/5253757/)  | 在库|
+| 《怪诞行为学全套》 |[https://book.douban.com/subject/5253757/](https://book.douban.com/subject/5253757/)  | shanks997|
 | 《离散数学及其应用》 |[https://book.douban.com/subject/26316200/](https://book.douban.com/subject/26316200/)  | 在库|
 | 《MSP(MSP430/432)系列单片机设计进阶与工程实践》 |[https://book.douban.com/subject/30532700/](https://book.douban.com/subject/30532700/)  | 在库|
 | 《深入理解计算机系统第三版》 | [https://book.douban.com/subject/26912767/](https://book.douban.com/subject/26912767/) | 在库|
