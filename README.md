@@ -72,7 +72,7 @@
 |《深度学习》|[https://book.douban.com/subject/27087503/](https://book.douban.com/subject/27087503/)|在库|
 |《教父3》|[https://book.douban.com/subject/25762005/](https://book.douban.com/subject/25762005/)|在库|
 |《教父 2：西西里人》|[https://book.douban.com/subject/25762007/](https://book.douban.com/subject/25762007/)|在库|
-|《Python基础教程（第3版）》|[https://book.douban.com/subject/27667375/](https://book.douban.com/subject/27667375/)|在库|
+|《Python基础教程（第3版）》|[https://book.douban.com/subject/27667375/](https://book.douban.com/subject/27667375/)|XavierGrool|
 |《挑战程序设计竞赛》|[https://book.douban.com/subject/24749842/](https://book.douban.com/subject/24749842/)|在库|
 |《挑战程序设计竞赛2 算法和数据结构》|[https://book.douban.com/subject/26886659/](https://book.douban.com/subject/26886659/)|在库|
 |《卡耐基教你说话》|[https://book.douban.com/subject/10488438/](https://book.douban.com/subject/10488438/)|在库|
