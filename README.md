@@ -43,7 +43,7 @@
 | 《tomcat权威指南》 |[https://book.douban.com/subject/1231138/](https://book.douban.com/subject/1231138/)  | 在库|
 | 《head first设计模式》 |[https://book.douban.com/subject/1488876/](https://book.douban.com/subject/1488876/)  | L1nk|
 | 《挑战程序设计竞赛2》 | [https://book.douban.com/subject/26886659/](https://book.douban.com/subject/26886659/) | 在库|
-| 《原则》 | [https://book.douban.com/subject/27608239/](https://book.douban.com/subject/27608239/) | 在库|
+| 《原则》 | [https://book.douban.com/subject/27608239/](https://book.douban.com/subject/27608239/) | shanks997|
 | 《思考，快与慢》 | [https://book.douban.com/subject/10785583/](https://book.douban.com/subject/10785583/) | Shanks997|
 | 《剑指offer》 |[https://book.douban.com/subject/25910559/](https://book.douban.com/subject/25910559/)  | Ink-core|
 | 《算法竞赛入门经典》 |  [https://book.douban.com/subject/25902102/](https://book.douban.com/subject/25902102/)| LitMonkey|
