@@ -43,10 +43,11 @@
 | 《tomcat权威指南》 |[https://book.douban.com/subject/1231138/](https://book.douban.com/subject/1231138/)  | 在库|
 | 《head first设计模式》 |[https://book.douban.com/subject/1488876/](https://book.douban.com/subject/1488876/)  | L1nk|
 | 《挑战程序设计竞赛2》 | [https://book.douban.com/subject/26886659/](https://book.douban.com/subject/26886659/) | 在库|
-| 《原则》 | [https://book.douban.com/subject/27608239/](https://book.douban.com/subject/27608239/) | 在库|
+| 《原则》 | [https://book.douban.com/subject/27608239/](https://book.douban.com/subject/27608239/) | shanks997|
 | 《思考，快与慢》 | [https://book.douban.com/subject/10785583/](https://book.douban.com/subject/10785583/) | Shanks997|
 | 《剑指offer》 |[https://book.douban.com/subject/25910559/](https://book.douban.com/subject/25910559/)  | Ink-core|
 | 《算法竞赛入门经典》 |  [https://book.douban.com/subject/25902102/](https://book.douban.com/subject/25902102/)| LitMonkey|
+| 《算法竞赛入门经典》 |  [https://book.douban.com/subject/25902102/](https://book.douban.com/subject/25902102/)| 在库|
 | 《算法竞赛入门经典习题与解法》 | [https://book.douban.com/subject/30336590/](https://book.douban.com/subject/30336590/) | LitMonkey|
 | 《囚徒健身》 | [https://book.douban.com/subject/25717097/](https://book.douban.com/subject/25717097/) | 在库|
 | 《灿烂千阳》 | [https://book.douban.com/subject/2143732/](https://book.douban.com/subject/2143732/) | 在库|
@@ -57,6 +58,34 @@
 | 《离散数学及其应用》 |[https://book.douban.com/subject/26316200/](https://book.douban.com/subject/26316200/)  | wood|
 | 《MSP(MSP430/432)系列单片机设计进阶与工程实践》 |[https://book.douban.com/subject/30532700/](https://book.douban.com/subject/30532700/)  | 在库|
 | 《深入理解计算机系统第三版》 | [https://book.douban.com/subject/26912767/](https://book.douban.com/subject/26912767/) | dragonliu|
+| 《怪诞行为学全套》 |[https://book.douban.com/subject/5253757/](https://book.douban.com/subject/5253757/)  | Shanks997|
+| 《怪诞行为学2》 |[https://book.douban.com/subject/5253757/](https://book.douban.com/subject/5253757/)  | Shanks997|
+| 《离散数学及其应用》 |[https://book.douban.com/subject/26316200/](https://book.douban.com/subject/26316200/)  | 在库|
+| 《MSP(MSP430/432)系列单片机设计进阶与工程实践》 |[https://book.douban.com/subject/30532700/](https://book.douban.com/subject/30532700/)  | 在库|
+| 《深入理解计算机系统第三版》 | [https://book.douban.com/subject/26912767/](https://book.douban.com/subject/26912767/) | 在库|
+| 《编程珠玑第二版》 | [https://book.douban.com/subject/3227098/](https://book.douban.com/subject/3227098/) | 在库|
+| 《Python核心编程》 | [https://book.douban.com/subject/26801374/](https://book.douban.com/subject/26801374/) | 在库|
+|《你不知道的Javascript上卷》|[https://book.douban.com/subject/26351021/](https://book.douban.com/subject/26351021/)|在库|
+|《你不知道的Javascript中卷》|[https://book.douban.com/subject/26854244/](https://book.douban.com/subject/26854244/)|在库|
+|《你不知道的Javascript下卷》|[https://book.douban.com/subject/27620408/](https://book.douban.com/subject/27620408/)|在库|
+|《第一行android代码》|[https://book.douban.com/subject/26915433/](https://book.douban.com/subject/26915433/)|在库|
+|《JAVA语言程序设计》|[https://book.douban.com/subject/6529833/](https://book.douban.com/subject/6529833/)|在库|
+|《算法导论》|[https://book.douban.com/subject/20432061/](https://book.douban.com/subject/20432061/)|在库|
+|《移动Web前端高效开发实战》|[https://book.douban.com/subject/27127110/](https://book.douban.com/subject/27127110/)|在库|
+|《编译原理-龙书》|[https://book.douban.com/subject/3296317/](https://book.douban.com/subject/3296317/)|在库|
+|《C Primer Plus》|[https://book.douban.com/subject/1240002/](https://book.douban.com/subject/1240002/)|在库|
+|《深度学习》|[https://book.douban.com/subject/27087503/](https://book.douban.com/subject/27087503/)|在库|
+|《教父3》|[https://book.douban.com/subject/25762005/](https://book.douban.com/subject/25762005/)|在库|
+|《教父 2：西西里人》|[https://book.douban.com/subject/25762007/](https://book.douban.com/subject/25762007/)|在库|
+|《Python基础教程（第3版）》|[https://book.douban.com/subject/27667375/](https://book.douban.com/subject/27667375/)|XavierGrool|
+|《挑战程序设计竞赛》|[https://book.douban.com/subject/24749842/](https://book.douban.com/subject/24749842/)|在库|
+|《挑战程序设计竞赛2 算法和数据结构》|[https://book.douban.com/subject/26886659/](https://book.douban.com/subject/26886659/)|在库|
+|《卡耐基教你说话》|[https://book.douban.com/subject/10488438/](https://book.douban.com/subject/10488438/)|在库|
+|《Python 3网络爬虫开发实战》|[https://book.douban.com/subject/30175598/](https://book.douban.com/subject/30175598/)|在库|
+|《黑客攻防从入门到精通》|[https://book.douban.com/subject/24530466/](https://book.douban.com/subject/24530466/)|在库|
+|《Web前端黑客技术揭秘》|[https://book.douban.com/subject/20451827/](https://book.douban.com/subject/20451827/)|在库|
+|《疯狂Swift讲义》|[https://book.douban.com/subject/26292006/](https://book.douban.com/subject/26292006/)|在库|
+|《犯罪心理学》| [https://book.douban.com/subject/33476075/](https://book.douban.com/subject/33476075/)| Shanks997|
 
 ## 推荐书单
 | 书名           | 介绍                     | 方向| 推荐人|
@@ -72,6 +101,7 @@
 | 《Linux 内核设计的艺术（第2版）》 | https://book.douban.com/subject/24708145/ | 计算机基础 | Tomax |
 | 《kali渗透测试实战》 | https://book.douban.com/subject/25967355/ | Web渗透 | h2w2r6ui |
 | 《白帽子讲Web安全》 | https://book.douban.com/subject/10546925/ | Web安全入门 | h2w2r6ui |
+| 《网络是怎样连接的》 | https://book.douban.com/subject/26941639/ | Web入门 | St4ck |
 |《黑客攻防技术宝典:系统实战篇》|https://book.douban.com/subject/4225167/|系统安全|Edgar|
 |《寒江独钓:Windows内核安全编程》|https://book.douban.com/subject/3769383/|系统安全|Edgar|
 |《加密与解密(第四版)》|https://book.douban.com/subject/30288807/|系统安全|Edgar|
@@ -81,10 +111,11 @@
 ## 特别鸣谢捐赠者们
 | 捐赠者们         
 | -------------- |
+|[st4ck](https://github.com/kit4y) |
 | [Arcosx](https://github.com/arcosx) | 
 |[Triple-Z](https://github.com/Triple-Z) |
 |[w4rd3n](https://github.com/hitworld) |
-|[kit4y](https://github.com/kit4y) |
+|[RayZhao1998](https://github.com/RayZhao1998) |
 
 #### ps:如果您不会使用github或者也想捐赠书籍可以通过QQ/邮箱联系后到实验室参与借书`QQ:381382770`/`mail:mdlzz@nuaa.edu.cn`
 
