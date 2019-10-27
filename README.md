@@ -54,13 +54,11 @@
 | 《全球风口》 |[https://book.douban.com/subject/26695045/](https://book.douban.com/subject/26695045/)  | 在库|
 | 《智慧社会 大数据与社会物理学》 | [https://book.douban.com/subject/26315800/](https://book.douban.com/subject/26315800/) | 在库|
 | 《消费者行为学》 | [https://book.douban.com/subject/2015536/](https://book.douban.com/subject/2015536/) | 在库|
-| 《怪诞行为学全套》 |[https://book.douban.com/subject/5253757/](https://book.douban.com/subject/5253757/)  | 在库|
 | 《离散数学及其应用》 |[https://book.douban.com/subject/26316200/](https://book.douban.com/subject/26316200/)  | wood|
 | 《MSP(MSP430/432)系列单片机设计进阶与工程实践》 |[https://book.douban.com/subject/30532700/](https://book.douban.com/subject/30532700/)  | 在库|
 | 《深入理解计算机系统第三版》 | [https://book.douban.com/subject/26912767/](https://book.douban.com/subject/26912767/) | dragonliu|
 | 《怪诞行为学全套》 |[https://book.douban.com/subject/5253757/](https://book.douban.com/subject/5253757/)  | Shanks997|
 | 《怪诞行为学2》 |[https://book.douban.com/subject/5253757/](https://book.douban.com/subject/5253757/)  | Shanks997|
-| 《离散数学及其应用》 |[https://book.douban.com/subject/26316200/](https://book.douban.com/subject/26316200/)  | 在库|
 | 《MSP(MSP430/432)系列单片机设计进阶与工程实践》 |[https://book.douban.com/subject/30532700/](https://book.douban.com/subject/30532700/)  | 在库|
 | 《深入理解计算机系统第三版》 | [https://book.douban.com/subject/26912767/](https://book.douban.com/subject/26912767/) | 在库|
 | 《编程珠玑第二版》 | [https://book.douban.com/subject/3227098/](https://book.douban.com/subject/3227098/) | 在库|
