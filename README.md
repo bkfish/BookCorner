@@ -2,6 +2,7 @@
 > 由南京航空航天大学Asuri战队，微软学生俱乐部，A2OS等部门的各方大佬以及毕业离校就职于华为，微博等优秀南航学长们捐助的计算机技术类图书共享以及书单推荐计划
 
 
+![](/image/2.jpg)
 ![](/image/1.jpg)
 ## Welcome
 书籍均为纸质实体暂放于南京航空航天大学将军路校区计算机实验楼316实验室，提交 `issue` 或 `pull request` 修改`在库`状态为`{借书人Id}`即可拿书，借还无ddl,所以你可以不用还，无实名制，但是为了杜绝浪费，单人同时上限5本。另外附带一个大佬推荐书单，如果有师傅推荐书籍也可以提pr
@@ -84,6 +85,8 @@
 |《Web前端黑客技术揭秘》|[https://book.douban.com/subject/20451827/](https://book.douban.com/subject/20451827/)|在库|
 |《疯狂Swift讲义》|[https://book.douban.com/subject/26292006/](https://book.douban.com/subject/26292006/)|在库|
 |《犯罪心理学》| [https://book.douban.com/subject/33476075/](https://book.douban.com/subject/33476075/)| Shanks997|
+
+
 
 ## 推荐书单
 | 书名           | 介绍                     | 方向| 推荐人|
